@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @OpenAPIDefinition(info =
 @Info(description = "Una API REST sobre tareas",
 		version = "1.0",
-		contact = @Contact(email = "luismi@openwebinars.net", name = "Luismi"),
+		contact = @Contact(email = "alvarobarriocarbajal@gmail.com", name = "Alvaro"),
 		license = @License(name = "CC BY"),
 		title = "API sobre tareas"
 )
